@@ -1,6 +1,4 @@
-# Jasper Kense
-
-**Senior Design Engineer · Product Engineer**
+**Product Designer · Software Engineer**
 
 NL
 
@@ -8,4 +6,4 @@ I design and build product systems end-to-end. Systems thinking across research,
 
 ---
 
-[Portfolio](https://www.jasperkense.com/) · [LinkedIn](https://www.linkedin.com/in/jasperkense/)
+[Portfolio](https://www.jasperkense.com/) · [LinkedIn](https://www.linkedin.com/in/jasperkense/) · [Start-up](https://www.leapfrogapp.com)
